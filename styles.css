@@ -1,0 +1,81 @@
+ @import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Lobster|Noto+Serif|Quattrocento&display=swap');
+body{
+    background-color: gray;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    color: black;
+    font-size: 25px;
+    border: 5px dotted white;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Quattrocento', serif;
+}
+/* header{
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    background-image: url('./images/Akan-designstyle-jungle-m.png');
+} */       
+h1{
+    text-align: center;
+    background-color: gray;
+    font-family: 'Noto Serif', serif;
+    font-size: 50px;
+    text-decoration: underline;
+    
+}
+nav ul li{
+    display: inline-block;
+    padding: 40px;
+    float: right;
+    text-transform: uppercase;
+    margin-right: 25px;
+    margin-top: 0px;
+    list-style-type: none;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px ;
+}
+nav li a:hover{
+    background-color:white;
+    padding: 10px;
+}
+.js{
+    align-items: center;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.contact{
+    padding: 25px;
+    margin-left: 10px;
+    float: right;
+}
+footer{
+    height: auto;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+#img{
+    padding: 30px;
+}
+.contacts{
+    align-items: center;
+    align-content: center;
+    border: 2px solid grey;
+    width: 300px;
+    text-align: center;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 40%;
+
+}
