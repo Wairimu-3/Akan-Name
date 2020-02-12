@@ -90,3 +90,7 @@ footer{
     background-color: black;
     text-align: center;
 }
+.form input[type="number"],[type="submit"]{
+    background-color: black;
+    text-align: center;
+}
