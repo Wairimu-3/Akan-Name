@@ -5,8 +5,8 @@
 >>Akan names. The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born.
 ## Technologies Used
 >
-> 1.  HTML
-> 2.  CSS
+> 1. HTML
+> 2. CSS
 > 3. Java Script
 > 4. Bootstrap
 >
