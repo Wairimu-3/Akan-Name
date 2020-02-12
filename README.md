@@ -2,13 +2,20 @@
 #### {Akan Name}, {14/Feb/2020}
 #### By **{Margaret Kimani}**
 ## Description
-{Akan names. The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born.}
+>>Akan names. The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born.
 ## Technologies Used
-{I have used Hyper Text Markup Language,Cascading Style Sheet and Java Script}
+>
+> 1.  HTML
+> 2.  CSS
+> 3. Java Script
+> 4. Bootstrap
+>
 ### Contact 
-{Email adress: Kimanimargaret46@gmail.com}
-{Phone: 079069591}
++  Email: kimanimargaret46@gmail.com
+-  phone: 0790695591
++  slack: Margaret Kimani 
 ### License
+
 *Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
