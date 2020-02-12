@@ -75,12 +75,18 @@ footer{
 }
 .contacts{
     align-items: center;
-    align-content: center;
+    /* align-content: center; */
     border: 2px solid grey;
     width: 400px;
     text-align: center;
     align-content: center;
     flex-direction: column;
     margin-left: 40%;
+    color: black;
+    
 
+}
+.contacts input[type="text"]{
+    background-color: black;
+    text-align: center;
 }
