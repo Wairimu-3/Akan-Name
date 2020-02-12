@@ -86,7 +86,7 @@ footer{
     
 
 }
-.contacts input[type="text"]{
+.contacts input[type="text"],[type="submit"]{
     background-color: black;
     text-align: center;
 }
