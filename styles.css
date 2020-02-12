@@ -1,20 +1,22 @@
- @import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Lobster|Noto+Serif|Quattrocento&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Galada&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Galada&display=swap');
+*{
+    color: white;
+    font-size: 25px;
+    font-family: 'Galada', cursive;
+    font-family: 'Courgette', cursive;
+}
 body{
-    background-color: gray;
+    background-image: url('./images/moon.jpeg');
+    background-color: grey;
+    color: white;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     overflow-y: scroll;
     overflow-x: hidden;
     color: black;
-    font-size: 25px;
-    border: 5px dotted white;
-    font-family: 'Noto Serif', serif;
-    font-family: 'Lobster', cursive;
-    font-family: 'Great Vibes', cursive;
-    font-family: 'Quattrocento', serif;
-    border: 10px dotted grey;
+    border: 10px dotted white;
 }
 /* header{
     height: 450px;
@@ -24,9 +26,8 @@ body{
 } */       
 h1{
     text-align: center;
-    background-color: gray;
-    font-family: 'Noto Serif', serif;
-    font-size: 50px;
+    font-family: 'Galada', cursive;
+    font-size: 90px;
     text-decoration: underline;
     
 }
