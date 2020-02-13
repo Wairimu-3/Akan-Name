@@ -10,8 +10,8 @@
 > 3. Java Script
 > 4. Bootstrap
 >
-### Links to other projects
->Below are links to other projects
+### Links to all projects
+>Below are links to all projects
 
 https://wairimu-3.github.io/Akan-Name/
 
