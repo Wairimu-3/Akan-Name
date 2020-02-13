@@ -1,6 +1,6 @@
 # Akan Name
 #### Akan Name, 14/Feb/2020
-#### By **{Margaret Kimani}**
+#### By **Margaret Kimani**
 ## Description
 >>The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born.These "day names" have further meanings concerning the soul and character of the person. This website displays your Akan name according to the day,month and year you were born in.
 ## Technologies Used
