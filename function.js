@@ -1,4 +1,4 @@
-function daynames() {
+function akanNames() {
     var day = document.getElementById("day").value;
     var d = new Date(day);
     var DD = d.getDate(day);
