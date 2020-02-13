@@ -10,6 +10,16 @@
 > 3. Java Script
 > 4. Bootstrap
 >
+### Links to all projects
+>Below are links to all projects
+
+https://wairimu-3.github.io/Akan-Name/
+
+https://wairimu-3.github.io/portfolio/
+
+https://wairimu-3.github.io/Royals-/
+
+https://beryl01.github.io/My-Tailor/
 ### Contact 
 +  Email: kimanimargaret46@gmail.com
 -  phone: 0790695591
