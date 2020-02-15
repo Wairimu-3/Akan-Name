@@ -15,11 +15,6 @@ https://wairimu-3.github.io/Akan-Name/
 >
 ### user stories
 > In the home page,you will  be able to read more about akan names and also know their origin and their respective days.The next page is the about page where you can fill in your birthday details and get to know your akan name according to your birth day.The last page is the contact page where you'll find my contact information and how you can reach out to me.
-
-<img src="./images/homepage.png" height="120px">
-<img src="./images/aboutpage.png" height="120px">
-<img src="./images/contactpage.png" height="120px">
-
 ### Links to all projects
 >Below are links to other projects:
 
